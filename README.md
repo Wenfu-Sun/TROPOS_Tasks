@@ -22,7 +22,7 @@ The code was tested with Python 3.7. To use this code, please do:
 3. Reorganize the data directory as follows,
 
    ```
-   data\
+   Data\
    |---01-Field_experiment_overview\
        |---Tab_1-Instruments.csv
        |---Tab_2-Campaigns.csv
@@ -36,4 +36,4 @@ The code was tested with Python 3.7. To use this code, please do:
 
 4. Start `Jupyter Notebook` and run the `*.ipynb` for respective tasks.
 
-5. The results will be generated under the `data\` folder.
+5. The results will be generated under the `Results\` folder.
