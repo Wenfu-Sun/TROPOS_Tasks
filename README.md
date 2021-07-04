@@ -16,7 +16,7 @@ The code was tested with Python 3.7. To use this code, please do:
    ```shell
    conda create -n tropos-tasks python=3.7 
    conda activate tropos-tasks
-   pip install jupyter xarray pandas matplotlib python-gantt cairosvg
+   pip install jupyter xarray netcdf4 pandas matplotlib python-gantt cairosvg
    ```
 
 3. Reorganize the data directory as follows,
